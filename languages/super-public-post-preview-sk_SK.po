@@ -1,0 +1,61 @@
+# Translation of Plugins - Super Preview Post Plugin - Development (trunk) in Slovak
+# This file is distributed under the same license as the Plugins - Super Preview Post Plugin - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sk\n"
+"Project-Id-Version: Plugins - Super Preview Post Plugin - Development (trunk)\n"
+
+#. Author of the plugin/theme
+msgid "INVELITY.COM"
+msgstr ""
+
+#. #-#-#-#-#  super-public-post-preview-code.pot (SUPER Public Post Preview
+#. Plugin 1.0.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  super-public-post-preview-code.pot (SUPER Public Post Preview
+#. Plugin 1.0.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://invelity.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Create and share link to anonymous users for preview any post before it is published."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "SUPER Public Post Preview Plugin"
+msgstr ""
+
+#: super_preview_post.php:103
+msgid "Allow"
+msgstr ""
+
+#: super_preview_post.php:74 super_preview_post.php:103
+msgid "Preview"
+msgstr ""
+
+#: premium.php:124
+msgid "Password"
+msgstr ""
+
+#: premium.php:53
+msgid "Date until"
+msgstr ""
+
+#: premium.php:52
+msgid "Date since"
+msgstr ""
+
+#: premium.php:31 premium.php:55
+msgid "Save"
+msgstr ""
+
+#: premium.php:25
+msgid "Select post types"
+msgstr ""
